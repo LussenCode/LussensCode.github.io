@@ -1,0 +1,37 @@
+body{
+
+background: linear-gradient(orange 35%,red 75%);
+background-repeat: no-repeat;
+
+}
+#kl{
+
+
+background-color: #ccc;
+text-shadow: 1px 1px 1px rgb(151, 229, 255);
+
+}
+#txt1{
+
+text-shadow: 2px 2px 1px lightcoral;
+background-color: lightcyan;
+
+}
+#txt2{
+
+    text-shadow: 2px 2px 1px lightcoral;
+    background-color: lightcyan;
+    
+    }
+    #txt3{
+
+        text-shadow: 2px 2px 1px lightcoral;
+        background-color: lightcyan;
+        
+        }
+        #dv1 {
+
+margin-top: 10;
+
+
+        }
